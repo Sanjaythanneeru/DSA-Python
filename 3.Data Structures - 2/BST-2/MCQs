@@ -1,0 +1,11 @@
+Q) The run time for traversing all the nodes of a binary search tree with n nodes and printing them in an order is
+A. O(n)
+
+Q) Which type of traversal of binary search tree outputs the value in sorted order ?
+A. In-order
+
+Q) Which one of the following is the tightest upper bound that represents the time complexity of inserting an object into a binary search tree of n nodes?
+A. O(n)
+
+Q) What are the worst-case complexities of insertion and deletion of a key in a binary search tree?
+A. θ (n) for both insertion and deletion 
